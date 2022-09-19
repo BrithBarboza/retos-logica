@@ -1,4 +1,3 @@
 # retos-logica
 
-Aquí tendremos los retos que vamos a practicar.
-Brik es mongola
+Aquí tendremos los retos en Javascript que vamos a practicar
